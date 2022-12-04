@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/scottpletcher/aws-csa-pro#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
     "shakespeare-insult": "^1.0.0"
   }
 }
